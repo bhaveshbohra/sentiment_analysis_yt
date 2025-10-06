@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = ../UsershpAppDataLocalTemp
+    url = s3://mlflow-test1-prod
